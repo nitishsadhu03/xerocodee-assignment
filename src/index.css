@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.effect {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.32), rgba(0, 0, 0, 0.32)),
+linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2));
+}
+
