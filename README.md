@@ -5,6 +5,7 @@ This project is a recreation of a design into a functional landing page. The ori
 ## Table of Contents
 
 - [Overview](#overview)
+- [Live Demo](#live-demo)
 - [Technical Stack](#technical-stack)
 - [Setup](#setup)
 - [Usage](#usage)
@@ -14,6 +15,10 @@ This project is a recreation of a design into a functional landing page. The ori
 ## Overview
 
 The task involved recreating a design provided via Figma into a functional landing page. The landing page serves as a showcase for a particular product, following modern web development practices and design principles.
+
+## Live Demo
+
+To see the website in action, check out our [demo](https://xerocodee-assignment-nine.vercel.app/)
 
 ## Technical Stack
 
